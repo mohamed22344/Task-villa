@@ -1,0 +1,84 @@
+.deal{
+    margin: 30px;
+    padding:40px 0px;
+    display: flex;
+    align-items: center;
+    gap: 600px;
+}
+.find{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.deal h3{
+    margin-left: -80px;
+    font-size: 14px;
+    color: orangered;
+}
+.orange{
+    background-color: orangered;
+}
+.button-3 button{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 14px;
+    border: 0cap;
+    border-radius: 4px;
+
+}
+.black{
+    background-color: black;
+}
+
+
+.lorem{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(241, 239, 239);
+    border-radius: 10px;
+
+}
+.lorem p{
+    margin: 30px;
+}
+.lorem-button{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.lorem button{
+        padding: 10px 30px;
+        border: 1px solid ;
+        background-color: black;
+        color: white;
+        border-radius: 50px;
+        width: 180px;
+        height: 40px;
+}
+.descrip p{
+    
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.descrip{
+    background-color: white;
+    width: 230px;
+    border-radius: 15px;
+}
+.descrip span{
+    font-weight: bold;
+    margin-left: 35px;
+    font-size: 22px;
+    color: black;
+    
+}
+.descrip p{
+   
+        color: #b8bfc1;
+}

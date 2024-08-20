@@ -1,0 +1,33 @@
+.header{
+   width: 95vw;
+   height: 30px;
+   margin: 0 auto;
+   background-color: white;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.Email{
+    display: flex;
+    gap: 25px;
+}
+.Email img{
+    width: 40px;
+    height: 25px;
+}
+.media-menu{
+    margin-right: 90px;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+i{
+    width: 50px;
+    height: 50px;
+
+}
+
+hr{
+    margin: 10px 0px 0px 0px;
+}
+

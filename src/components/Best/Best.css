@@ -1,0 +1,36 @@
+.best-conteiner{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+.part-3{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.contain3{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.part-2{
+    margin:10px;
+    padding: 10px;
+
+}
+.p1{
+    font-size: 40px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font: optional;
+    margin-left: 0px;
+
+}
+.m{
+    color: tomato;
+    font-size: 16px;
+}
